@@ -1,6 +1,6 @@
 # ComScaN Software
 
-[Participants](participants.md) | [Papers](papers.md) | [Software](software.md)
+[Home](README.md) | [Participants](participants.md) | [Papers](papers.md) | [Software](software.md)
 
 ------
 
@@ -28,4 +28,4 @@ The initial list of software follows:
   - Closures / lambda-expressions
   - A partial implementation of HALIDE, a DSL for high performance matrix processing
  
-  [GitHub repository](https://github.com/melt-umn/ableC)
+  [ableC GitHub repository](https://github.com/melt-umn/ableC)

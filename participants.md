@@ -1,6 +1,6 @@
 # ComScaN Participants
 
-[Participants](participants.md) | [Papers](papers.md) | [Software](software.md)
+[Home](README.md) | [Participants](participants.md) | [Papers](papers.md) | [Software](software.md)
 
 ------
 

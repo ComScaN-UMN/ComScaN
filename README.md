@@ -1,6 +1,6 @@
 # ComScaN
 
-[Participants](participants.md) | [Papers](papers.md) | [Software](software.md)
+[Home](README.md) | [Participants](participants.md) | [Papers](papers.md) | [Software](software.md)
 
 ## Composition and Scaling of Network Services
 
