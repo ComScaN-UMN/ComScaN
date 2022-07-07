@@ -1,4 +1,4 @@
-# ComScaN Software
+# Software
 
 [Home](README.md) | [Participants](participants.md) | [Papers](papers.md) | [Software](software.md)
 
@@ -17,7 +17,7 @@ The initial list of software follows:
   supporting tools to construct new extended versions of C from a set
   of independently designed language extensions. The composition is
   automatic and guaranteed to succeed. Several extensions have been
-  developed; these include algebra
+  developed; these include
   - Algebraic data types, with pattern matching
   - SQLite, with type-checked queries
   - Cilk, for task-based parallel programming

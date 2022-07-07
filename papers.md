@@ -1,4 +1,4 @@
-# ComScaN Papers
+# Papers
 
 [Home](README.md) | [Participants](participants.md) | [Papers](papers.md) | [Software](software.md)
 
