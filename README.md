@@ -1,8 +1,6 @@
-# ComScaN - Composition and Scaling of Network Services
+# ComScaN
 
-----------
 [Participants](participants.md) | [Papers](papers.md) | [Software](software.md)
-----------
 
 ## Composition and Scaling of Network Services
 

@@ -1,7 +1,14 @@
 # ComScaN Participants
 
-All participants are from the [Department of Computer Science and
-Engineering](cs.umn.edu) at the [University of Minnesota, Twin Cities Campus](tc.umn.edu)
+[Participants](participants.md) | [Papers](papers.md) |
+[Software](software.md)
+
+------
+
+All participants are from the
+[Department of Computer Science and Engineering](https://cs.umn.edu) 
+at the 
+[University of Minnesota, Twin Cities Campus](https://tc.umn.edu).
 
 Principle Investigators
 - Sanjai Rayadurgam
