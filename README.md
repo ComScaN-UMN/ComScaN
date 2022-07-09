@@ -51,9 +51,9 @@ synthesis in new directions.
 ### Participants
 
 Principle Investigators
-- Sanjai Rayadurgam
-- Eric Van Wyk
-- Zhi-Li Zhang
+- [Sanjai Rayadurgam](https://cse.umn.edu/msse/sanjai-rayadurgam)
+- [Eric Van Wyk](https://www-users.cse.umn.edu/~evw/)
+- [Zhi-Li Zhang](https://www-users.cse.umn.edu/~zhang089/)
 
 Graduate Students
 - Luke Bessant
