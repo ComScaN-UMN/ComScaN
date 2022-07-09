@@ -9,7 +9,16 @@ will be listed here.
 
 The initial list of software follows:
 
-- NF Lambda
+- NFLambda is an NFV platform based on DPDK and written in C. Users can design network functions as a composition of micro-services. It has two components: Runtime as the execution environment of network functions with high-performance packet processing on COTS multi-core systems and Director for service provisioning and orchestration. 
+  - It contains the following features:
+    - NFlow and MVT abstraction for the stateful network functions for efficient state management.
+    - Supports for granular decomposition of network functions into data and control components for fine-grained resource allocation.
+  - Several examples have been developed, including:
+    - A 5G UPF that is able to be configured through PFCP messages from the SMF and process the packets based on PDR (Packet Detection Rule), FAR (Forward Action Rule), BAR (Buffering Action Rule), QER (QoS Enforcement Rules) between the gNB and data network.
+    - A load balancer mapping packets to different backend servers according to various policies such as round-robin, Maglev.
+    - An IDS matching packets payload based on regular expression patterns and executing different actions such as dropping and forwarding as a result.
+    - An ICMP echo server that can reply to ICMP Echo Request.
+    - A TCP server that can establish TCP sessions with the clients. 
 
 - [ableC](https://melt.cs.umn.edu/ableC/) is an extensible
   specification of C (C11 standard) using
